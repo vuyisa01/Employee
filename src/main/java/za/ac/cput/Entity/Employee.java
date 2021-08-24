@@ -1,3 +1,10 @@
+
+/*
+    Employee.java
+    Entity for employees
+    Aurthor: Vuyisa Nkangana(218192215)
+    Date: 24 August
+ */
 package za.ac.cput.Entity;
 
 public class Employee {
